@@ -59,6 +59,8 @@ never alters.
 ---
 Original Source: <http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/>
 
+Found at: <http://blog.8thlight.com/mike-jansen/2012/09/26/welcome-to-the-gilded-rose-in-clojure.html>
+
 ### Gilded Rose In Other Languages
 
   - Ruby - <http://github.com/professor/GildedRose>
